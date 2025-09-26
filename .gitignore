@@ -1,0 +1,13 @@
+# Exclude dataset files and folders
+dataset/
+*.csv
+*.xlsx
+*.json
+data/
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.tiff
+images/
